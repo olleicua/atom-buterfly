@@ -1,0 +1,18 @@
+{
+  "name": "atom-butterfly",
+  "main": "./lib/butterfly",
+  "version": "0.0.0",
+  "description": "A much needed feature from emacs",
+  "keywords": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "butterfly:flip-bit"
+  },
+  "repository": "https://github.com/atom/atom-butterfly",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}

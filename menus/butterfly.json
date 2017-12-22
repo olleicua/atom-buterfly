@@ -1,0 +1,21 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Butterfly",
+        "command": "butterfly:flip-bit"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "Butterfly",
+          "command": "atom-butterfly:toggle"
+        }
+      ]
+    }
+  ]
+}
